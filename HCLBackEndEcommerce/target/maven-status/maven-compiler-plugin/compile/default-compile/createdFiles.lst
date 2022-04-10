@@ -1,0 +1,6 @@
+com\hcl\HCLBackEndEcommerce\dao\ProductCategoryRepository.class
+com\hcl\HCLBackEndEcommerce\dao\ProductRepository.class
+com\hcl\HCLBackEndEcommerce\entity\ProductCategory.class
+com\hcl\HCLBackEndEcommerce\entity\Product.class
+com\hcl\HCLBackEndEcommerce\config\MyDataRestConfig.class
+com\hcl\HCLBackEndEcommerce\HclBackEndEcommerceApplication.class
